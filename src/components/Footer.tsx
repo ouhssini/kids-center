@@ -26,7 +26,7 @@ const Footer = () => {
       <div className="flex  flex-row gap-8 items-center justify-center flex-wrap md:items-start md:justify-between">
         <div className="logo flex-1 md:basis-56 basis-auto text-center ">
           <img src="./logo.png" alt="logo" className="w-36 mx-auto" />
-          <p className="mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius vehicula odio,  Lorem ipsum dolor sit amet, consectetur </p>
+          <p className="mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius vehicula odio,Lorem ipsum dolor sit amet, consectetur </p>
         </div>
         <div className="informations flex flex-col gap-4 flex-1 basis-28">
           <h1 className="font-bold text-xl capitalize"> Informations</h1>
